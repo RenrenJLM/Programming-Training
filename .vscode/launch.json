@@ -14,8 +14,8 @@
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
-            "MIMode": "gdb",
-            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",
+            "MIMode": "gdb",            // 使用 gdb 调试器
+            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",       // gdb 调试器的路径
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",
